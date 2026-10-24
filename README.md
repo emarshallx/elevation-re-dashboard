@@ -71,4 +71,4 @@ The `ledger` table is a plain monthly GL: `property_id, period (YYYY-MM), scenar
 
 ## Credits
 
-Charts: [plotly.js](https://github.com/plotly/plotly.js) (MIT). Typeface: [Archivo](https://github.com/Omnibus-Type/Archivo) by Omnibus-Type (SIL OFL 1.1).
+Charts: [plotly.js](https://github.com/plotly/plotly.js) (MIT). Typeface: [Archivo](https://github.com/Omnibus-Type/Archivo) 
